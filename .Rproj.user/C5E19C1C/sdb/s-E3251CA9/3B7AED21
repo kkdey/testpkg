@@ -1,12 +1,12 @@
 {
-    "contents" : "# Hello, world!\n#\n# This is an example function named 'hello' \n# which prints 'Hello, world!'.\n#\n# You can learn more about package authoring with RStudio at:\n#\n#   http://r-pkgs.had.co.nz/\n#\n# Some useful keyboard shortcuts for package authoring:\n#\n#   Build and Reload Package:  'Cmd + Shift + B'\n#   Check Package:             'Cmd + Shift + E'\n#   Test Package:              'Cmd + Shift + T'\n\nhello <- function(a, b) {\n  c = a+b\n  c\n}\n",
+    "contents" : "#\n#\n# This is an example function named 'hello'\n# which prints 'Hello, world!'.\n#\n# You can learn more about package authoring with RStudio at:\n#\n#   http://r-pkgs.had.co.nz/\n#\n# Some useful keyboard shortcuts for package authoring:\n#\n#   Build and Reload Package:  'Cmd + Shift + B'\n#   Check Package:             'Cmd + Shift + E'\n#   Test Package:              'Cmd + Shift + T'\n\nhello <- function(a, b) {\n  c = a+b+d\n  c\n}\n",
     "created" : 1461866798740.000,
-    "dirty" : true,
+    "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "2111633116",
+    "hash" : "2976303361",
     "id" : "3B7AED21",
-    "lastKnownWriteTime" : 1461866792,
+    "lastKnownWriteTime" : 1461867502,
     "path" : "~/Documents/testpkg/R/hello.R",
     "project_path" : "R/hello.R",
     "properties" : {
